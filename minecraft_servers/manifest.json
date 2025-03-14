@@ -1,0 +1,19 @@
+{
+  "server_name": "Samstags Server",
+  "nice_name": "Samstags Server",
+  "direct_ip": "koopa.whitecraft44.de",
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "website": "https://www.youtube.com/@koopavonkuerbis"
+  },
+  "brand": {
+    "primary": "#ff9000"
+  },
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Deutschland",
+    "country_code": "DE"
+  }
+}
